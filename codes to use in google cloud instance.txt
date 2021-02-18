@@ -1,0 +1,17 @@
+Clone this repository from the greenr repo on Github
+
+git clone https://github.com/btphan95/greenr-tutorial
+
+go to cmd and folder of rep
+
+#start install lfs
+git lfs install
+
+git lfs track "*.pkl"
+
+git remote add origin https://github.com/hareshkm999/green-tutorial-master2.git
+
+git push origin master
+
+#to verify remote origin
+git remote -v
